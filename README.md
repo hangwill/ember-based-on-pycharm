@@ -1,2 +1,2 @@
 # ember-based-on-pycharm
-# 阿威到此一游
+# 愿先生心境，四季如春。
